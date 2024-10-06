@@ -16,7 +16,7 @@
 
         <div class="container mx-auto flex justify-between items-center">
             <a href="{{route('home')}}" class="text-3xl font-black">
-                DevStagram
+                Development
             </a>
             {{-- verificar si esta autenticado --}}
             {{-- @if (auth()->user())
